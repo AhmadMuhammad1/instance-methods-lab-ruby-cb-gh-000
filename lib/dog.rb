@@ -7,3 +7,4 @@ class dog
     puts "The Dog is sitting"
   end
 end
+
